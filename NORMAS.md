@@ -96,12 +96,14 @@ Si me espero mucho para introducirlo el PIN dejará de ser válido y perderé lo
 
 Se recompensará la actividad de los miembros del clan con puntos DKPs utilizando el ranking de actividad del servidor.
 
-- Top 100: 80 DKP adicionales.
-- Top 200: 60 DKP adicionales.
-- Top 300: 50 DKP adicionales.
-- Top 500: 40 DKP adicionales.
-- Top 1000: 35 DKP adicionales.
-- Sin Ranking: No hay DKPs.
+| Posición      | Recompensa      |
+| ------------- | ------------- |
+| Top 100 |80 DKP adicionales |
+|Top 200 | 60 DKP adicionales. |
+|Top 300 | 50 DKP adicionales. |
+|Top 500 | 40 DKP adicionales. | 
+|Top 1000 | 35 DKP adicionales. | 
+|Sin Ranking |No hay DKPs.|
 
 ### **Metodología**:
 
