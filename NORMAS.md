@@ -159,7 +159,7 @@ Se recompensará la actividad de los miembros del clan con puntos DKPs utilizand
 
 ### Responsibilidades
 
-- Elegir participantes en pujas privadas y comunmicarlo a los administradores de TLGM para la creacion de la subasta y sus configuraciones.
+- Elegir participantes en pujas privadas y comunicarlo a los administradores de TLGM para la creacion de la subasta y sus configuraciones.
 - En subastas públicas y privadas validar que los ganadores cumplen con las normas de las subastas (tipo de puja correcta, builds correctas...).
 - Tienen la capacidad de invalidar una subasta o denegar la entrega de un item al ganador en TLGM siempre y cuando esa decisión se justificable.
 - Los criterios que se utilizarán para elegir los miembros de las pujas privadas será:
@@ -179,7 +179,7 @@ Se recompensará la actividad de los miembros del clan con puntos DKPs utilizand
 
 - Ganar subasta por pujas ilégitimas: 
   - Primera ocasión: Aviso y baneo de la puja donde se ha cometido el error.
-  - Segunda ocasión: Perdida de los puintos apostados y baneo de la puja donde se ha cometido el error.
+  - Segunda ocasión: Perdida de los puntos apostados y baneo de la puja donde se ha cometido el error.
   - Tercera ocasión: expulsión del gremio.
 - Obtener DKPs por eventos no asistidos: 
   - Primera ocasión: pérdida del 20% DKPs totales.
@@ -188,7 +188,7 @@ Se recompensará la actividad de los miembros del clan con puntos DKPs utilizand
   - Primera ocasión: pérdida del 50% DKPs totales para todos los involucrados.
   - Segunda ocasión: pérdida del 100% DKPs totales para todos los involucrados.
   - Tercera ocasión: expulsión del gremio para todos los involucrados.
-- Introducción de código sin haber respondido con la asistenci al evento:
+- Introducción de código sin haber respondido con la asistencia al evento:
   - Siempre: No se darán puntos. Esto se ajustará de forma retroactiva a traves del TLGM y no se informará al afectado. 
 
 # Prime Time (19:30- 23:30)
